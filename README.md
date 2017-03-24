@@ -9,3 +9,4 @@ Each screen key has six such 'activity' keys
 Each entry can be thought of as a button on the screen
 
 added in json folder and committed locally - looking for change in MeterApp
+linking up
