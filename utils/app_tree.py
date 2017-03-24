@@ -109,7 +109,7 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    acts        = _getJSON( '../www/js/activities.json')
-    screens     = _getJSON('../www/js/screens.json')
+    acts        = _getJSON( '../activities.json')
+    screens     = _getJSON('../screens.json')
     cursor      = _connectDatabase(db.Host)
     main(sys.argv[1:])
