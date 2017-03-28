@@ -436,6 +436,7 @@
         "Appliance Mobile": {
             "ID": 8554,
             "caption": "Mobile device",
+            "category": "other_category",
             "help": "Computer or mobile device",
             "icon": "app_mobile",
             "next": "other people",
@@ -618,7 +619,7 @@
         "Appliances TV": {
             "ID": 8553,
             "caption": "TV",
-            "category": "care_self",
+            "category": "recreation",
             "help": "it is running or you use it",
             "icon": "app_TV",
             "next": "other people",
@@ -889,7 +890,7 @@
         "Care": {
             "ID": 3900,
             "caption": "Joint activity",
-            "category": "care_other",
+            "category": "other_category",
             "help": "Helping, socialising",
             "icon": "act2_others",
             "next": "care",
@@ -1149,7 +1150,7 @@
         "Care wash bath other": {
             "ID": 323,
             "caption": "Skip",
-            "category": "care_other",
+            "category": "other_category",
             "help": "Bath related activity",
             "icon": "act2_skip",
             "next": "other people",
@@ -1331,7 +1332,7 @@
         "Computer Work": {
             "ID": 1111,
             "caption": "Work",
-            "category": "other_category",
+            "category": "work",
             "help": "Work related device use",
             "icon": "app_computer",
             "next": "other people",
@@ -1411,7 +1412,7 @@
         "Device Next": {
             "ID": 8210,
             "caption": "Next...",
-            "category": "recreation",
+            "category": "other_category",
             "help": "No need to be more specific",
             "icon": "act2_skip",
             "next": "other people",
@@ -1568,7 +1569,7 @@
         "Exercise": {
             "ID": 6100,
             "caption": "Exercise",
-            "category": "recreation",
+            "category": "care_self",
             "help": "Sport / physical activity",
             "icon": "act2_exercise",
             "next": "other people",
@@ -2249,7 +2250,7 @@
         "Leisure TV Computer": {
             "ID": 8216,
             "caption": "Computer",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Laptop, desktop...",
             "icon": "app_laptop",
             "next": "device use",
@@ -2258,7 +2259,7 @@
         "Leisure TV Laptop": {
             "ID": 8216,
             "caption": "Laptop",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Watching TV on a laptop",
             "icon": "app_laptop",
             "next": "other people",
@@ -2267,7 +2268,7 @@
         "Leisure TV Mobile": {
             "ID": 8213,
             "caption": "Mobile",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Watching something on a mobile",
             "icon": "app_mobile",
             "next": "device use",
@@ -2276,7 +2277,7 @@
         "Leisure TV Other": {
             "ID": 8210,
             "caption": "Next...",
-            "category": "recreation",
+            "category": "other_category",
             "help": "No need to be more specific",
             "icon": "act2_skip",
             "next": "other people",
@@ -2303,7 +2304,7 @@
         "Leisure TV Tablet": {
             "ID": 8217,
             "caption": "Tablet",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Watching TV on a tablet",
             "icon": "act2_screen",
             "next": "device use",
@@ -2614,7 +2615,7 @@
         "Nature": {
             "ID": 6400,
             "caption": "Nature",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Being in nature",
             "icon": "act2_nature",
             "next": "nature",
@@ -3102,7 +3103,7 @@
         "Outdoors appliances": {
             "ID": 6010,
             "caption": "Appliances",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Using an appliance outdoors",
             "icon": "act2_appliance",
             "next": "outdoors appliances",
@@ -3111,7 +3112,7 @@
         "Outdoors other": {
             "ID": 6000,
             "caption": "Other",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Anything else",
             "icon": "act2_other",
             "next": "other people",
@@ -3362,7 +3363,7 @@
         "Social media": {
             "ID": 8001,
             "caption": "Social media",
-            "category": "care_self",
+            "category": "recreation",
             "help": "On Facebook, Twitter..",
             "icon": "app_tablet",
             "next": "other people",
@@ -3411,6 +3412,7 @@
         "Study": {
             "ID": 2190,
             "caption": "Study",
+            "category": "work",
             "help": "School, uni, further education",
             "icon": "act2_study",
             "next": "work job",
@@ -3798,7 +3800,7 @@
         "Travel escorting a child (other than education)": {
             "ID": 9380,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "care_other",
             "help": "Travel escorting a child (other than education)",
             "next": "other people",
             "title": "Travel escorting a child (other than education)"
@@ -3806,7 +3808,7 @@
         "Travel escorting an adult (other than education)": {
             "ID": 9390,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "care_other",
             "help": "Travel escorting an adult (other than education)",
             "next": "other people",
             "title": "Travel escorting an adult (other than education)"
@@ -3814,7 +3816,7 @@
         "Travel exercise": {
             "ID": 9610,
             "caption": "Exercise",
-            "category": "travel",
+            "category": "care_self",
             "help": "Running, cycling, swimming...",
             "next": "travel purpose",
             "title": "Sport"
@@ -3832,7 +3834,7 @@
         "Travel for day trip/ just walk": {
             "ID": 9820,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel for day trip/ just walk",
             "next": "other people",
             "title": "Travel for day trip/ just walk"
@@ -3868,7 +3870,7 @@
         "Travel purpose children": {
             "ID": 9230,
             "caption": "Children",
-            "category": "travel",
+            "category": "care_other",
             "help": "For school, sport or social",
             "icon": "act2_children",
             "next": "travel purpose children",
@@ -3877,7 +3879,7 @@
         "Travel purpose children other": {
             "ID": 9234,
             "caption": "Other",
-            "category": "travel",
+            "category": "care_other",
             "help": "Something else",
             "icon": "act2_other",
             "next": "other people",
@@ -3886,7 +3888,7 @@
         "Travel purpose children school": {
             "ID": 9231,
             "caption": "School / nursery",
-            "category": "travel",
+            "category": "care_other",
             "help": "School run",
             "icon": "act2_study",
             "next": "other people",
@@ -3895,7 +3897,7 @@
         "Travel purpose children social": {
             "ID": 9233,
             "caption": "See friends",
-            "category": "travel",
+            "category": "care_other",
             "help": "to play",
             "icon": "act2_friends",
             "next": "other people",
@@ -3904,7 +3906,7 @@
         "Travel purpose children sport": {
             "ID": 9232,
             "caption": "Sport",
-            "category": "travel",
+            "category": "care_other",
             "help": "To/from event/training",
             "icon": "act2_exercise",
             "next": "other people",
@@ -3913,7 +3915,7 @@
         "Travel purpose commute": {
             "ID": 9100,
             "caption": "To/from work or school",
-            "category": "travel",
+            "category": "work",
             "help": "Travel to/from work",
             "next": "other people",
             "title": "Travel to/from work"
@@ -3921,7 +3923,7 @@
         "Travel purpose entertainment": {
             "ID": 9520,
             "caption": "Entertainment",
-            "category": "travel",
+            "category": "recreation",
             "help": "Going to movies, theatre...",
             "next": "other people",
             "title": "Travel for entertainment"
@@ -3929,7 +3931,7 @@
         "Travel purpose exercise": {
             "ID": 9610,
             "caption": "Exercise",
-            "category": "recreation",
+            "category": "care_self",
             "help": "Health and fitness",
             "icon": "act2_exercise",
             "next": "other people",
@@ -3938,7 +3940,7 @@
         "Travel purpose friend": {
             "ID": 9500,
             "caption": "Family / friends",
-            "category": "travel",
+            "category": "recreation",
             "help": "visiting or travelling with",
             "icon": "act2_friends",
             "next": "other people",
@@ -3947,7 +3949,7 @@
         "Travel purpose household": {
             "ID": 9310,
             "caption": "Household",
-            "category": "travel",
+            "category": "care_house",
             "help": "To DIY store, plumber...",
             "next": "other people",
             "title": "Household travel"
@@ -3955,7 +3957,7 @@
         "Travel purpose leisure": {
             "ID": 9600,
             "caption": "Leisure",
-            "category": "travel",
+            "category": "recreation",
             "help": "to have fun",
             "icon": "act2_leisure",
             "next": "other people",
@@ -3982,7 +3984,7 @@
         "Travel purpose shopping": {
             "ID": 9360,
             "caption": "Shopping",
-            "category": "travel",
+            "category": "care_house",
             "help": "Travel to/from shops",
             "icon": "act2_exercise",
             "next": "other people",
@@ -3991,7 +3993,7 @@
         "Travel purpose social": {
             "ID": 9510,
             "caption": "Social activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to other social activities",
             "next": "other people",
             "title": "Travel (social)"
@@ -3999,7 +4001,7 @@
         "Travel purpose work": {
             "ID": 9110,
             "caption": "Work",
-            "category": "travel",
+            "category": "work",
             "help": "For, to or from work",
             "icon": "act2_work",
             "next": "other people",
@@ -4016,7 +4018,7 @@
         "Travel related to education": {
             "ID": 9210,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "work",
             "help": "Travel related to education",
             "next": "other people",
             "title": "Travel related to education"
@@ -4024,7 +4026,7 @@
         "Travel related to gambling": {
             "ID": 9710,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to gambling",
             "next": "other people",
             "title": "Travel related to gambling"
@@ -4032,7 +4034,7 @@
         "Travel related to hobbies other than gambling": {
             "ID": 9720,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to hobbies other than gambling",
             "next": "other people",
             "title": "Travel related to hobbies other than gambling"
@@ -4040,7 +4042,7 @@
         "Travel related to hunting & fishing": {
             "ID": 9620,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to hunting & fishing",
             "next": "other people",
             "title": "Travel related to hunting & fishing"
@@ -4048,7 +4050,7 @@
         "Travel related to informal help to other households": {
             "ID": 9420,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "care_other",
             "help": "Travel related to informal help to other households",
             "next": "other people",
             "title": "Travel related to informal help to other households"
@@ -4056,7 +4058,7 @@
         "Travel related to organisational work": {
             "ID": 9400,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "work",
             "help": "Travel related to organisational work",
             "next": "other people",
             "title": "Travel related to organisational work"
@@ -4064,7 +4066,7 @@
         "Travel related to participatory activities other than religious activities": {
             "ID": 9440,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to participatory activities other than religious activities",
             "next": "other people",
             "title": "Travel related to participatory activities other than religious activities"
@@ -4072,7 +4074,7 @@
         "Travel related to personal business": {
             "ID": 9010,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "work",
             "help": "Travel related to personal business",
             "next": "other people",
             "title": "Travel related to personal business"
@@ -4080,7 +4082,7 @@
         "Travel related to productive excs expt hunting & fishing": {
             "ID": 9630,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "recreation",
             "help": "Travel related to productive excs expt hunting & fishing",
             "next": "other people",
             "title": "Travel related to productive excs expt hunting & fishing"
@@ -4096,7 +4098,7 @@
         "Travel related to services": {
             "ID": 9370,
             "caption": "Travel activities",
-            "category": "travel",
+            "category": "care_house",
             "help": "Travel related to services",
             "next": "other people",
             "title": "Travel related to services"
@@ -4473,6 +4475,7 @@
         "Volunteer work and meetings": {
             "ID": 4000,
             "caption": "Volunteering",
+            "category": "work",
             "help": "Unpaid work or activity",
             "icon": "act2_volunteer",
             "next": "work job",
