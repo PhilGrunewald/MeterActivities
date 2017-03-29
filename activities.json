@@ -451,6 +451,15 @@
             "title": "Use an appliance",
             "value": 0
         },
+        "Appliances generic": {
+            "ID": 8501,
+            "caption": "Appliances",
+            "help": "Electrical goods",
+            "icon": "act2_appliance",
+            "next": "appliances",
+            "title": "Use an appliance",
+            "value": 0
+        },
         "Appliances Bread maker": {
             "ID": 8537,
             "caption": "Bread maker",
@@ -678,6 +687,15 @@
             "icon": "app_washing_machine",
             "next": "other people",
             "title": "Washing machine"
+        },
+        "Appliances Washing": {
+            "ID": 8502,
+            "caption": "Washing machine or dryer",
+            "help": "Electrical goods",
+            "icon": "act2_appliance",
+            "next": "appliances",
+            "title": "Use an appliance",
+            "value": 0
         },
         "Appliances bathroom": {
             "ID": 8570,
@@ -3034,9 +3052,9 @@
             "title": "Other walk or hike"
         },
         "Outdoor food": {
-            "ID": 6000,
+            "ID": 6006,
             "caption": "Food",
-            "category": "other_category",
+            "category": "food",
             "help": "Any food related activity",
             "icon": "act2_food",
             "next": "outdoors food",
@@ -4348,14 +4366,6 @@
             "help": "Unspecified social life",
             "next": "other people",
             "title": "Unspecified social life"
-        },
-        "Unspecified sports and outdoor activities": {
-            "ID": 6000,
-            "caption": "Sports",
-            "category": "other_category",
-            "help": "Unspecified sports and outdoor activities",
-            "next": "other people",
-            "title": "Unspecified sports and outdoor activities"
         },
         "Unspecified sports related activities": {
             "ID": 6310,
