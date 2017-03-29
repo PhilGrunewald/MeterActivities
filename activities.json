@@ -899,7 +899,7 @@
         "Care activities other": {
             "ID": 3912,
             "caption": "Other",
-            "category": "care_other",
+            "category": "other_category",
             "help": "being together",
             "icon": "act2_other",
             "next": "other people",
@@ -1021,7 +1021,7 @@
         "Care friends": {
             "ID": 3910,
             "caption": "Friends",
-            "category": "care_other",
+            "category": "other_category",
             "help": "Being with friends",
             "icon": "act2_friends",
             "next": "care activities",
@@ -1039,7 +1039,7 @@
         "Care others": {
             "ID": 3913,
             "caption": "Others",
-            "category": "care_other",
+            "category": "other_category",
             "help": "Being with other people",
             "icon": "act2_with_others",
             "next": "care activities",
@@ -2241,7 +2241,7 @@
         "Leisure TV": {
             "ID": 8210,
             "caption": "Screen time",
-            "category": "recreation",
+            "category": "other_category",
             "help": "Watching TV, YouTube, film...",
             "icon": "app_TV",
             "next": "leisure tv device",
@@ -3036,7 +3036,7 @@
         "Outdoor food": {
             "ID": 6000,
             "caption": "Food",
-            "category": "food",
+            "category": "other_category",
             "help": "Any food related activity",
             "icon": "act2_food",
             "next": "outdoors food",
@@ -4352,6 +4352,7 @@
         "Unspecified sports and outdoor activities": {
             "ID": 6000,
             "caption": "Sports",
+            "category": "other_category",
             "help": "Unspecified sports and outdoor activities",
             "next": "other people",
             "title": "Unspecified sports and outdoor activities"
