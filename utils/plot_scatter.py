@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 import db_ini as db     # reads the database and file path information
 # override host to local
-db.Host = 'localhost'
+# db.Host = 'localhost'
 
 # ========= #
 #  GLOBALS  #
@@ -34,7 +34,7 @@ ActivityCount_by_WattHour = "\
      ) ElectricityHH\
      ON ActivityHH.Household_idHousehold = ElectricityHH.Household_idHousehold\
      AND dt BETWEEN dt_activity - INTERVAL 30 MINUTE AND dt_activity + INTERVAL 30 MINUTE\
-    GROUP BY dt,Watt;"
+    GROUP BY dt,Watt,ElectricityHH.Household_idHousehold;"
 
 # ========= #
 # FUNCTIONS #
@@ -60,7 +60,7 @@ def create_e1hour():
         df_elec = pd.read_sql(sqlq, con=dbConnection)
         df_elec.index = pd.to_datetime(df_elec.dt)        # index by time
         # downsample, label left such that time refers to the next minute
-        df_elec_resampled = df_elec.resample('60min', label='left').median()
+        df_elec_resampled = df_elec.resample('60min', label='left').mean()
         # remove index, so that a new one is auto-incremented
         del df_elec_resampled['idElectricity']
         # pandas is brutal, if not append it rewrites the table!!
