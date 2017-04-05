@@ -89,6 +89,7 @@ def interact(screenKey, actKey, old_screenKey):
 
 def main(argv):
     """ Check for arguments """
+    # nextScreen  = ['activity root', None, None]
     nextScreen  = ['activity root', None, None]
     global opt_hits
     helpStr =  'app_tree.py [ch] \n options \n [-h,--help]\t\tthis help \n [-c,--hitcount]\tshow usage of buttons'
