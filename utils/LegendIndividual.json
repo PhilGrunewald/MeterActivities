@@ -14,7 +14,7 @@
         "0": "Null",
         "1": "Yes, I do",
         "2": "I contribute",
-        "3": "I don't",
+        "3": "I don\\'t",
         "4": "Other / Skip",
         "None": "Null",
         "q": "Do you pay the electricity bills?"
@@ -40,10 +40,10 @@
     },
     "Income": {
         "0": "Null",
-        "1": "GBP 0 - <br>GBP 10,000",
-        "2": "up to <br>GBP 20,000",
-        "3": "up to <br>GBP 30,000",
-        "4": "up to <br>GBP 45,000",
+        "1": "GBP 0 -  GBP 10,000",
+        "2": "up to  GBP 20,000",
+        "3": "up to  GBP 30,000",
+        "4": "up to  GBP 45,000",
         "5": "Over GBP 45,000",
         "6": "Skip",
         "None": "Null",
@@ -69,7 +69,7 @@
         "5": "3h or less",
         "6": "Over 3h",
         "None": "Null",
-        "q": "On a typical weekday, how much time do you spend </br> <b>Cooking</b>"
+        "q": "On a typical weekday, how much time do you spend    Cooking "
     },
     "TimeExercise": {
         "0": "Null",
@@ -80,7 +80,7 @@
         "5": "3h or less",
         "6": "Over 3h",
         "None": "Null",
-        "q": "On a typical weekday, how much time do you spend </br> <b>Exercising</b>"
+        "q": "On a typical weekday, how much time do you spend    Exercising "
     },
     "TimeMobile": {
         "0": "Null",
@@ -91,73 +91,73 @@
         "5": "2h or less",
         "6": "Over 2h",
         "None": "Null",
-        "q": "On a typical weekday, how much time do you spend on</br> <b>Mobile Devices</b> (in total)"
+        "q": "On a typical weekday, how much time do you spend on   Mobile Devices  (in total)"
     },
     "TimeScreens": {
         "0": "Null",
         "1": "None",
-        "2": "30 min</br>or less",
-        "3": "1 hour</br>or less",
-        "4": "2 hours</br>or less",
-        "5": "3 hours</br>or less",
+        "2": "30 min or less",
+        "3": "1 hour or less",
+        "4": "2 hours or less",
+        "5": "3 hours or less",
         "6": "Over 3 hours",
         "None": "Null",
-        "q": "On a typical weekday, how much time do you spend on</br> <b>Screens</b> (any device)"
+        "q": "On a typical weekday, how much time do you spend on   Screens  (any device)"
     },
     "UseDishwasher": {
         "0": "Null",
-        "1": "I didn't",
+        "1": "I didn\\'t",
         "2": "Once",
         "3": "Twice",
-        "4": "3 - 4<br>times",
-        "5": "5 - 7<br>times",
-        "6": "8<br>or more",
+        "4": "3 - 4 times",
+        "5": "5 - 7 times",
+        "6": "8 or more",
         "None": "Null",
-        "q": "In the last 7 days,</br> did <i>you personally</i> use a</br> <b>Dishwasher</b>?"
+        "q": "In the last 7 days,  did  you personally  use a   Dishwasher ?"
     },
     "UseShower": {
         "0": "Null",
-        "1": "I didn't",
+        "1": "I didn\\'t",
         "2": "Once",
         "3": "Twice",
-        "4": "3 - 4<br>times",
-        "5": "5 - 7<br>times",
-        "6": "8<br>or more",
+        "4": "3 - 4 times",
+        "5": "5 - 7 times",
+        "6": "8 or more",
         "None": "Null",
-        "q": "In the last 7 days,</br> did you use a</br> <b>Shower</b>?"
+        "q": "In the last 7 days,  did you use a   Shower ?"
     },
     "UseTumbleDryer": {
         "0": "Null",
-        "1": "I didn't",
+        "1": "I didn\\'t",
         "2": "Once",
         "3": "Twice",
-        "4": "3 - 4<br>times",
-        "5": "5 - 7<br>times",
-        "6": "8<br>or more",
+        "4": "3 - 4 times",
+        "5": "5 - 7 times",
+        "6": "8 or more",
         "None": "Null",
-        "q": "In the last 7 days,</br> did <i>you personally</i> use a</br> <b>Tumble Dryer</b>?"
+        "q": "In the last 7 days,  did  you personally  use a   Tumble Dryer ?"
     },
     "UseVacuumCleaner": {
         "0": "Null",
-        "1": "I didn't",
+        "1": "I didn\\'t",
         "2": "Once",
         "3": "Twice",
-        "4": "3 - 4<br>times",
-        "5": "5 - 7<br>times",
-        "6": "8<br>or more",
+        "4": "3 - 4 times",
+        "5": "5 - 7 times",
+        "6": "8 or more",
         "None": "Null",
-        "q": "In the last 7 days,</br> did you use a</br> <b>Vacuum Cleaner</b>?"
+        "q": "In the last 7 days,  did you use a   Vacuum Cleaner ?"
     },
     "UseWashingMachine": {
         "0": "Null",
-        "1": "I didn't",
+        "1": "I didn\\'t",
         "2": "Once",
         "3": "Twice",
-        "4": "3 - 4<br>times",
-        "5": "5 - 7<br>times",
-        "6": "8<br>or more",
+        "4": "3 - 4 times",
+        "5": "5 - 7 times",
+        "6": "8 or more",
         "None": "Null",
-        "q": "In the last 7 days,</br> did <i>you personally</i> use a</br> <b>Washing Machine</b>?"
+        "q": "In the last 7 days,  did  you personally  use a   Washing Machine ?"
     },
     "WorkHome": {
         "0": "Null",
