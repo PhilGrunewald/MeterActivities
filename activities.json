@@ -2758,7 +2758,7 @@
             "help": "people",
             "icon": "act2_others0",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "No one",
             "value": 0
         },
         "Other people 2": {
@@ -2767,7 +2767,7 @@
             "help": "people",
             "icon": "act2_others1",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "1 other",
             "value": 1
         },
         "Other people 3": {
@@ -2776,7 +2776,7 @@
             "help": "people",
             "icon": "act2_others2",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "2 other",
             "value": 2
         },
         "Other people 4": {
@@ -2785,7 +2785,7 @@
             "help": "people",
             "icon": "act2_others3",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "3 other",
             "value": 3
         },
         "Other people 5": {
@@ -2794,7 +2794,7 @@
             "help": "people",
             "icon": "act2_others4",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "4 other",
             "value": 4
         },
         "Other people 6": {
@@ -2803,7 +2803,7 @@
             "help": "More than 4",
             "icon": "act2_others5",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "more than 4 others",
             "value": 5
         },
         "Other specified TV watching": {
