@@ -1348,6 +1348,7 @@
         "Collecting": {
             "ID": 7160,
             "caption": "Hobbies/leisure",
+            "category": "recreation",
             "help": "Collecting",
             "next": "other people",
             "title": "Collecting"
@@ -2166,6 +2167,7 @@
         },
         "Illegible activity": {
             "ID": 9980,
+            "category": "other_category",
             "caption": "Other activities",
             "help": "Illegible activity",
             "next": "other people",
@@ -2427,6 +2429,7 @@
         },
         "Live music other than classical concerts, opera and musicals": {
             "ID": 5224,
+            "category": "recreation",
             "caption": "Entertainment/ Leisure",
             "help": "Live music other than classical concerts, opera and musicals",
             "next": "other people",
@@ -3030,6 +3033,7 @@
         "Other specified participatory activities": {
             "ID": 4390,
             "caption": "Socialising",
+            "category": "recreation",
             "help": "Other specified participatory activities",
             "next": "other people",
             "title": "Other specified participatory activities"
@@ -4314,6 +4318,7 @@
         },
         "Unspecified construction and repairs": {
             "ID": 3500,
+            "category": "care_house",
             "caption": "Construction and repairs",
             "help": "Unspecified construction and repairs",
             "next": "other people",
@@ -4450,6 +4455,7 @@
         "Unspecified performing arts": {
             "ID": 7120,
             "caption": "Hobbies/leisure",
+            "category": "recreation",
             "help": "Unspecified performing arts",
             "next": "other people",
             "title": "Unspecified performing arts"
@@ -4545,6 +4551,7 @@
         "Unspecified water sports": {
             "ID": 6170,
             "caption": "Sports ",
+            "category": "recreation",
             "help": "Unspecified water sports",
             "next": "other people",
             "title": "Unspecified water sports"
@@ -5046,6 +5053,7 @@
         "xOther specified help to an adult member of another household": {
             "ID": 4289,
             "caption": "Asistance/Help",
+            "category": "care_other",
             "help": "Other specified help to an adult member of another household",
             "next": "other people",
             "title": "Other specified help to an adult member of another household"
@@ -5148,6 +5156,7 @@
         },
         "xxxShopping for&ordring entertainment via the internet": {
             "ID": 3726,
+            "category": "recreation",
             "caption": "Activities with internet use",
             "help": "Shopping for&ordring entertainment via the internet",
             "next": "other people",
@@ -5169,8 +5178,13 @@
             "next": "other people",
             "title": "Shopping for&ordring gds&srv related to acc via internet"
         },
+        "xxxWhoKnowsShouldProbablyCheck": {
+             "ID" : 3713,
+             "category" : "other_category"
+        },
         "xxxShopping for&ordring mass media via the internet": {
             "ID": 3725,
+            "category": "recreation",
             "caption": "Activities with internet use",
             "help": "Shopping for&ordring mass media via the internet",
             "next": "other people",
