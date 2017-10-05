@@ -73,6 +73,7 @@
             "ID": 4282,
             "caption": "Asistance/Help",
             "help": "Accompanying an adult as help to another household",
+            "category": "care_other",
             "next": "other people",
             "title": "Accompanying an adult as help to another household"
         },
@@ -80,6 +81,7 @@
             "ID": 4278,
             "caption": "Asistance/Help",
             "help": "Accompanying own non-coresident child",
+            "category": "care_other",
             "next": "other people",
             "title": "Accompanying own non-coresident child"
         },
@@ -87,6 +89,7 @@
             "ID": 4274,
             "caption": "Asistance/Help",
             "help": "Accompanying the child as help",
+            "category": "care_other",
             "next": "other people",
             "title": "Accompanying the child as help"
         },
@@ -94,6 +97,7 @@
             "ID": 1391,
             "caption": "Work",
             "help": "Activities related to job seeking",
+            "category": "work",
             "next": "other people",
             "title": "Activities related to job seeking"
         },
@@ -101,6 +105,7 @@
             "ID": 6312,
             "caption": "Sports ",
             "help": "Activities related to productive exercise",
+            "category": "recreation",
             "next": "other people",
             "title": "Activities related to productive exercise"
         },
@@ -108,6 +113,7 @@
             "ID": 6311,
             "caption": "Sports ",
             "help": "Activities related to sports",
+            "category": "recreation",
             "next": "other people",
             "title": "Activities related to sports"
         },
@@ -817,6 +823,7 @@
             "ID": 5230,
             "caption": "Entertainment/ Leisure",
             "help": "Art exhibitions and museums",
+            "category": "recreation",
             "next": "other people",
             "title": "Art exhibitions and museums"
         },
@@ -840,6 +847,7 @@
             "ID": 6131,
             "caption": "Sports",
             "help": "Biking",
+            "category": "recreation",
             "next": "other people",
             "title": "Biking"
         },
@@ -847,6 +855,7 @@
             "ID": 6130,
             "caption": "Sports",
             "help": "Biking, skiing and skating",
+            "category": "recreation",
             "next": "other people",
             "title": "Biking, skiing and skating"
         },
@@ -854,6 +863,7 @@
             "ID": 7321,
             "caption": "Leisure involving computer",
             "help": "Billiards, pool, snooker or petanque",
+            "category": "recreation",
             "next": "other people",
             "title": "Billiards, pool, snooker or petanque"
         },
@@ -902,6 +912,7 @@
             "ID": 5241,
             "caption": "Entertainment/ Leisure",
             "help": "Borrowing books, records, audiotapes, videotapes, CDs, VDs etc. from a library",
+            "category": "recreation",
             "next": "other people",
             "title": "Borrowing books, records, audiotapes, videotapes, CDs, VDs etc. from a library"
         },
@@ -1067,6 +1078,7 @@
             "ID": 3929,
             "caption": "Taking care of family or others",
             "help": "Other specified help to a dependent adult household member",
+            "category": "care_other",
             "next": "other people",
             "title": "Other specified help to a dependent adult household member"
         },
@@ -1074,6 +1086,7 @@
             "ID": 3924,
             "caption": "Accompanying a dependent person",
             "help": "with disability or illness",
+            "category": "care_other",
             "next": "other people",
             "title": "Accompanying a dependent adult household member (eg Alzheimic)"
         },
@@ -1081,6 +1094,7 @@
             "ID": 3921,
             "caption": "Helping a dependent person",
             "help": "with disability or illness",
+            "category": "care_other",
             "next": "other people",
             "title": "Physical care of a dependent adult household member (eg Alzheimic parent)"
         },
@@ -1241,6 +1255,7 @@
             "ID": 5130,
             "caption": "Socialising",
             "help": "Celebrations",
+            "category": "recreation",
             "next": "other people",
             "title": "Celebrations"
         },
@@ -1248,6 +1263,7 @@
             "ID": 7322,
             "caption": "Leisure involving computer",
             "help": "Chess and bridge",
+            "category": "recreation",
             "next": "other people",
             "title": "Chess and bridge"
         },
@@ -1255,6 +1271,7 @@
             "ID": 5210,
             "caption": "Entertainment/ Leisure",
             "help": "Cinema",
+            "category": "recreation",
             "next": "other people",
             "title": "Cinema"
         },
@@ -1262,6 +1279,7 @@
             "ID": 2110,
             "caption": "Study",
             "help": "Classes and lectures",
+            "category": "work",
             "next": "other people",
             "title": "Classes and lectures"
         },
@@ -1323,12 +1341,14 @@
             "ID": 1220,
             "caption": "Work",
             "help": "Coffee and other breaks in second job",
+            "category": "recreation",
             "next": "other people",
             "title": "Coffee and other breaks in second job"
         },
         "Collecting": {
             "ID": 7160,
             "caption": "Hobbies/leisure",
+            "category": "recreation",
             "help": "Collecting",
             "next": "other people",
             "title": "Collecting"
@@ -1337,6 +1357,7 @@
             "ID": 3620,
             "caption": "Services",
             "help": "Commercial and administrative services",
+            "category": "care_house",
             "next": "other people",
             "title": "Commercial and administrative services"
         },
@@ -1344,6 +1365,7 @@
             "ID": 7241,
             "caption": "Leisure involving computer",
             "help": "Communication on the internet",
+            "category": "recreation",
             "next": "other people",
             "title": "Communication on the internet"
         },
@@ -1360,6 +1382,7 @@
             "ID": 7330,
             "caption": "Leisure involving computer",
             "help": "Computer games",
+            "category": "recreation",
             "next": "other people",
             "title": "Computer games"
         },
@@ -1367,6 +1390,7 @@
             "ID": 7220,
             "caption": "Leisure involving computer",
             "help": "Computing - programming",
+            "category": "recreation",
             "next": "other people",
             "title": "Computing - programming"
         },
@@ -1374,6 +1398,7 @@
             "ID": 5223,
             "caption": "Entertainment/ Leisure",
             "help": "Concerts or other performances of classical music",
+            "category": "recreation",
             "next": "other people",
             "title": "Concerts or other performances of classical music"
         },
@@ -1381,6 +1406,7 @@
             "ID": 4240,
             "caption": "Asistance/Help",
             "help": "Construction and repairs as help to other households",
+            "category": "care_other",
             "next": "other people",
             "title": "Construction and repairs as help to other households"
         },
@@ -1396,6 +1422,7 @@
         "Dance performances": {
             "ID": 5225,
             "caption": "Entertainment/ Leisure",
+            "category": "recreation",
             "help": "Dance performances",
             "next": "other people",
             "title": "Dance performances"
@@ -1597,6 +1624,7 @@
             "ID": 9950,
             "caption": "Other activities",
             "help": "Filling in the time use diary",
+            "category": "other_category",
             "next": "other people",
             "title": "Filling in the time use diary"
         },
@@ -1604,6 +1632,7 @@
             "ID": 6160,
             "caption": "Sports ",
             "help": "Fitness",
+            "category": "recreation",
             "next": "other people",
             "title": "Fitness"
         },
@@ -1682,6 +1711,7 @@
             "ID": 4210,
             "caption": "Asistance/Help",
             "help": "Food management as help to other households",
+            "category": "food",
             "next": "other people",
             "title": "Food management as help to other households"
         },
@@ -1734,6 +1764,7 @@
             "ID": 2210,
             "caption": "Study",
             "help": "Free Time Study",
+            "category": "work",
             "next": "other people",
             "title": "Free Time Study"
         },
@@ -1741,6 +1772,7 @@
             "ID": 7340,
             "caption": "Leisure",
             "help": "Gambling",
+            "category": "recreation",
             "next": "other people",
             "title": "Gambling"
         },
@@ -1757,6 +1789,7 @@
             "ID": 4230,
             "caption": "Asistance/Help",
             "help": "Gardening and pet care as help to other households",
+            "category": "care_other",
             "next": "other people",
             "title": "Gardening and pet care as help to other households"
         },
@@ -1791,6 +1824,7 @@
             "ID": 6150,
             "caption": "Sports ",
             "help": "Gymnastics",
+            "category": "recreation",
             "next": "other people",
             "title": "Gymnastics"
         },
@@ -1798,6 +1832,7 @@
             "ID": 4260,
             "caption": "Asistance/Help",
             "help": "Help to other households in employment and farming",
+            "category": "care_other",
             "next": "other people",
             "title": "Help to other households in employment and farming"
         },
@@ -1805,6 +1840,7 @@
             "ID": 2120,
             "caption": "Study",
             "help": "Homework",
+            "category": "work",
             "next": "other people",
             "title": "Homework"
         },
@@ -2117,6 +2153,7 @@
             "ID": 4220,
             "caption": "Asistance/Help",
             "help": "Household upkeep as help to other households",
+            "category": "care_other",
             "next": "other people",
             "title": "Household upkeep as help to other households"
         },
@@ -2124,11 +2161,13 @@
             "ID": 6210,
             "caption": "Sports ",
             "help": "Hunting and fishing",
+            "category": "recreation",
             "next": "other people",
             "title": "Hunting and fishing"
         },
         "Illegible activity": {
             "ID": 9980,
+            "category": "other_category",
             "caption": "Other activities",
             "help": "Illegible activity",
             "next": "other people",
@@ -2196,6 +2235,7 @@
             "ID": 6141,
             "caption": "Leisure involving computer",
             "help": "Indoor pairs or doubles games",
+            "category": "recreation",
             "next": "other people",
             "title": "Indoor pairs or doubles games"
         },
@@ -2203,6 +2243,7 @@
             "ID": 6142,
             "caption": "Leisure involving computer",
             "help": "Indoor team games",
+            "category": "recreation",
             "next": "other people",
             "title": "Indoor team games"
         },
@@ -2210,6 +2251,7 @@
             "ID": 7231,
             "caption": "Leisure involving computer",
             "help": "Information searching on the internet",
+            "category": "recreation",
             "next": "other people",
             "title": "Information searching on the internet"
         },
@@ -2226,6 +2268,7 @@
             "ID": 6120,
             "caption": "Sports",
             "help": "Jogging and running",
+            "category": "recreation",
             "next": "other people",
             "title": "Jogging and running"
         },
@@ -2332,6 +2375,7 @@
             "ID": 7000,
             "caption": "Other",
             "help": "Other hobbies, games or computing",
+            "category": "recreation",
             "icon": "act2_other",
             "next": "other people",
             "title": "Unspecified hobbies, games and computing"
@@ -2379,11 +2423,13 @@
             "ID": 7130,
             "caption": "Hobbies/leisure",
             "help": "Literary arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Literary arts"
         },
         "Live music other than classical concerts, opera and musicals": {
             "ID": 5224,
+            "category": "recreation",
             "caption": "Entertainment/ Leisure",
             "help": "Live music other than classical concerts, opera and musicals",
             "next": "other people",
@@ -2482,6 +2528,7 @@
             "ID": 1310,
             "caption": "Work",
             "help": "Lunch break",
+            "category": "food",
             "next": "other people",
             "title": "Lunch break"
         },
@@ -2499,13 +2546,24 @@
             "caption": "Customise",
             "help": "Say in your own words",
             "icon": "Other_type",
+            "category": "care_other",
             "next": "other specify",
             "title": "Custom"
+        },
+        "Undefined": {
+            "ID": 9999,
+            "category": "other_category",
+            "caption": "only in TUS",
+            "help": "",
+            "icon": "",
+            "next": "",
+            "title": "only in TUS"
         },
         "Making videos, taking photos or related activities": {
             "ID": 7112,
             "caption": "Hobbies/leisure",
             "help": "Making videos, taking photos or related activities",
+            "category": "recreation",
             "next": "other people",
             "title": "Making videos, taking photos or related activities"
         },
@@ -2514,6 +2572,7 @@
             "caption": "Socialising",
             "help": "Meetings",
             "icon": "act2_friends",
+            "category": "recreation",
             "next": "other people",
             "title": "Meetings"
         },
@@ -2618,6 +2677,7 @@
             "caption": "Mobile device",
             "help": "Computer or mobile device",
             "icon": "app_mobile",
+            "category": "recreation",
             "next": "other people",
             "title": "Mobile device"
         },
@@ -2652,6 +2712,7 @@
             "ID": 9960,
             "caption": "Other activities",
             "help": "No main activity, no idea what it might be",
+            "category": "other_category",
             "next": "other people",
             "title": "No main activity, no idea what it might be"
         },
@@ -2659,6 +2720,7 @@
             "ID": 9970,
             "caption": "Other activities",
             "help": "No main activity, some idea what it might be",
+            "category": "other_category",
             "next": "other people",
             "title": "No main activity, some idea what it might be"
         },
@@ -2733,6 +2795,7 @@
             "ID": 5222,
             "caption": "Entertainment/ Leisure",
             "help": "Opera, operetta or light opera",
+            "category": "recreation",
             "next": "other people",
             "title": "Opera, operetta or light opera"
         },
@@ -2740,6 +2803,7 @@
             "ID": 2100,
             "caption": "Study",
             "help": "Other activities related to school or university",
+            "category": "work",
             "next": "other people",
             "title": "Study"
         },
@@ -2758,7 +2822,7 @@
             "help": "people",
             "icon": "act2_others0",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "No one",
             "value": 0
         },
         "Other people 2": {
@@ -2767,7 +2831,7 @@
             "help": "people",
             "icon": "act2_others1",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "1 other",
             "value": 1
         },
         "Other people 3": {
@@ -2776,7 +2840,7 @@
             "help": "people",
             "icon": "act2_others2",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "2 other",
             "value": 2
         },
         "Other people 4": {
@@ -2785,7 +2849,7 @@
             "help": "people",
             "icon": "act2_others3",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "3 other",
             "value": 3
         },
         "Other people 5": {
@@ -2794,7 +2858,7 @@
             "help": "people",
             "icon": "act2_others4",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "4 other",
             "value": 4
         },
         "Other people 6": {
@@ -2803,7 +2867,7 @@
             "help": "More than 4",
             "icon": "act2_others5",
             "next": "enjoyment",
-            "title": "activity time",
+            "title": "more than 4 others",
             "value": 5
         },
         "Other specified TV watching": {
@@ -2818,6 +2882,7 @@
             "ID": 1390,
             "caption": "Work",
             "help": "Other specified activities related to employment",
+            "category": "work",
             "next": "other people",
             "title": "Other specified activities related to employment"
         },
@@ -2825,6 +2890,7 @@
             "ID": 7140,
             "caption": "Hobbies/leisure",
             "help": "Other specified arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified arts"
         },
@@ -2832,6 +2898,7 @@
             "ID": 6149,
             "caption": "Sports ",
             "help": "Other specified ball games",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified ball games"
         },
@@ -2839,6 +2906,7 @@
             "ID": 4279,
             "caption": "Asistance/Help",
             "help": "Other specified childcare as help",
+            "category": "care_other",
             "next": "other people",
             "title": "Other specified childcare as help"
         },
@@ -2846,6 +2914,7 @@
             "ID": 7249,
             "caption": "Leisure involving computer",
             "help": "Other specified communication by computing",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified communication by computing"
         },
@@ -2853,6 +2922,7 @@
             "ID": 7259,
             "caption": "Leisure involving computer",
             "help": "Other specified computing",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified computing"
         },
@@ -2860,6 +2930,7 @@
             "ID": 3590,
             "caption": "Construction and repairs",
             "help": "Other specified construction and repairs",
+            "category": "care_house",
             "next": "other people",
             "title": "Other specified construction and repairs"
         },
@@ -2867,6 +2938,7 @@
             "ID": 5290,
             "caption": "Entertainment/ Leisure",
             "help": "Other specified entertainment and culture",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified entertainment and culture"
         },
@@ -2874,6 +2946,7 @@
             "ID": 5299,
             "caption": "Entertainment/ Leisure",
             "help": "Other specified entertainment or culture",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified entertainment or culture"
         },
@@ -2881,6 +2954,7 @@
             "ID": 7390,
             "caption": "Leisure",
             "help": "Other specified games",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified games"
         },
@@ -2896,6 +2970,7 @@
             "ID": 4283,
             "caption": "Asistance/Help",
             "help": "Other specified help to an adult member of another household",
+            "category": "care_other",
             "next": "other people",
             "title": "Other specified help to an adult member of another household"
         },
@@ -2903,6 +2978,7 @@
             "ID": 4290,
             "caption": "Asistance/Help",
             "help": "Other specified informal help",
+            "category": "care_other",
             "next": "other people",
             "title": "Other specified informal help"
         },
@@ -2910,6 +2986,7 @@
             "ID": 7239,
             "caption": "Leisure involving computer",
             "help": "Other specified information by computing",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified information by computing"
         },
@@ -2917,6 +2994,7 @@
             "ID": 5249,
             "caption": "Entertainment/ Leisure",
             "help": "Other specified library activities",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified library activities"
         },
@@ -2924,6 +3002,7 @@
             "ID": 3539,
             "caption": "Construction and repairs",
             "help": "Other specified making, repairing and maintaining equipment",
+            "category": "care_house",
             "next": "other people",
             "title": "Other specified making, repairing and maintaining equipment"
         },
@@ -2931,6 +3010,7 @@
             "ID": 7190,
             "caption": "Hobbies/leisure",
             "help": "Other specified or unspecified arts and hobbies",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified or unspecified arts and hobbies"
         },
@@ -2938,6 +3018,7 @@
             "ID": 4190,
             "caption": "VOLUNTARY WORK AND MEETINGS",
             "help": "Other specified organisational work",
+            "category": "work",
             "next": "other people",
             "title": "Other specified organisational work"
         },
@@ -2945,12 +3026,14 @@
             "ID": 7329,
             "caption": "Leisure involving computer",
             "help": "Other specified parlour games and play",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified parlour games and play"
         },
         "Other specified participatory activities": {
             "ID": 4390,
             "caption": "Socialising",
+            "category": "recreation",
             "help": "Other specified participatory activities",
             "next": "other people",
             "title": "Other specified participatory activities"
@@ -2959,6 +3042,7 @@
             "ID": 7129,
             "caption": "Hobbies/leisure",
             "help": "Other specified performing arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified performing arts"
         },
@@ -2966,6 +3050,7 @@
             "ID": 6190,
             "caption": "Sports ",
             "help": "Other specified physical exercise",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified physical exercise"
         },
@@ -2973,6 +3058,7 @@
             "ID": 6290,
             "caption": "Sports ",
             "help": "Other specified productive exercise",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified productive exercise"
         },
@@ -2996,6 +3082,7 @@
             "ID": 3619,
             "caption": "Shopping",
             "help": "Other specified shopping",
+            "category": "care_house",
             "next": "other people",
             "title": "Other specified shopping"
         },
@@ -3003,6 +3090,7 @@
             "ID": 3690,
             "caption": "Services",
             "help": "Other specified shopping and services",
+            "category": "care_house",
             "next": "other people",
             "title": "Other specified shopping and services"
         },
@@ -3010,6 +3098,7 @@
             "ID": 5229,
             "caption": "Entertainment/ Leisure",
             "help": "Other specified theatre or concerts",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified theatre or concerts"
         },
@@ -3025,6 +3114,7 @@
             "ID": 7119,
             "caption": "Hobbies/leisure",
             "help": "Other specified visual arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified visual arts"
         },
@@ -3032,6 +3122,7 @@
             "ID": 6179,
             "caption": "Sports ",
             "help": "Other specified water sports",
+            "category": "recreation",
             "next": "other people",
             "title": "Other specified water sports"
         },
@@ -3048,6 +3139,7 @@
             "caption": "Sports",
             "help": "Other walk or hike",
             "icon": "act2_walk",
+            "category": "recreation",
             "next": "other people",
             "title": "Other walk or hike"
         },
@@ -3108,6 +3200,7 @@
             "ID": 6143,
             "caption": "Sports",
             "help": "Outdoor pairs or doubles games",
+            "category": "recreation",
             "next": "other people",
             "title": "Outdoor pairs or doubles games"
         },
@@ -3115,6 +3208,7 @@
             "ID": 6144,
             "caption": "Sports ",
             "help": "Outdoor team games",
+            "category": "recreation",
             "next": "other people",
             "title": "Outdoor team games"
         },
@@ -3140,6 +3234,7 @@
             "ID": 7111,
             "caption": "Hobbies/leisure",
             "help": "Painting, drawing or other graphic arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Painting, drawing or other graphic arts"
         },
@@ -3156,6 +3251,7 @@
             "ID": 3630,
             "caption": "Services",
             "help": "Personal services",
+            "category": "care_self",
             "next": "other people",
             "title": "Personal services"
         },
@@ -3163,6 +3259,7 @@
             "ID": 4281,
             "caption": "Asistance/Help",
             "help": "Physical care and supervision of an adult as help to another household",
+            "category": "care_other",
             "next": "other people",
             "title": "Physical care and supervision of an adult as help to another household"
         },
@@ -3170,6 +3267,7 @@
             "ID": 4271,
             "caption": "Asistance/Help",
             "help": "Physical care and supervision of child as help to other household",
+            "category": "care_other",
             "next": "other people",
             "title": "Physical care and supervision of child as help to other household"
         },
@@ -3177,6 +3275,7 @@
             "ID": 4275,
             "caption": "Asistance/Help",
             "help": "Physical care and supervision of own child as help to other household",
+            "category": "care_other",
             "next": "other people",
             "title": "Physical care and supervision of own child as help to other household"
         },
@@ -3184,6 +3283,7 @@
             "ID": 6220,
             "caption": "Sports ",
             "help": "Picking berries, mushroom and herbs",
+            "category": "recreation",
             "next": "other people",
             "title": "Picking berries, mushroom and herbs"
         },
@@ -3191,6 +3291,7 @@
             "ID": 5221,
             "caption": "Entertainment/ Leisure",
             "help": "Plays, musicals or pantomimes",
+            "category": "recreation",
             "next": "other people",
             "title": "Plays, musicals or pantomimes"
         },
@@ -3215,6 +3316,7 @@
             "ID": 9940,
             "caption": "Other activities",
             "help": "Punctuating activity",
+            "category": "other_category",
             "next": "other people",
             "title": "Punctuating activity"
         },
@@ -3231,6 +3333,7 @@
             "ID": 5245,
             "caption": "Entertainment/ Leisure",
             "help": "Reading newspapers in a library",
+            "category": "recreation",
             "next": "other people",
             "title": "Reading newspapers in a library"
         },
@@ -3238,6 +3341,7 @@
             "ID": 8110,
             "caption": "Leisure",
             "help": "Reading periodicals",
+            "category": "recreation",
             "next": "other people",
             "title": "Reading periodicals"
         },
@@ -3245,6 +3349,7 @@
             "ID": 4277,
             "caption": "Asistance/Help",
             "help": "Reading, playing & talking to own non-coresident child",
+            "category": "care_other",
             "next": "other people",
             "title": "Reading, playing & talking to own non-coresident child"
         },
@@ -3252,6 +3357,7 @@
             "ID": 4273,
             "caption": "Asistance/Help",
             "help": "Reading, playing & talking to the child as help",
+            "category": "care_other",
             "next": "other people",
             "title": "Reading, playing & talking to the child as help"
         },
@@ -3259,6 +3365,7 @@
             "ID": 5242,
             "caption": "Entertainment/ Leisure",
             "help": "Reference to bks and other library materials within library",
+            "category": "recreation",
             "next": "other people",
             "title": "Reference to bks and other library materials within library"
         },
@@ -3266,6 +3373,7 @@
             "ID": 4320,
             "caption": "Socialising",
             "help": "Religious activities",
+            "category": "care_self",
             "next": "other people",
             "title": "Religious activities"
         },
@@ -3299,6 +3407,7 @@
             "ID": 4250,
             "caption": "Asistance/Help",
             "help": "Shopping and services as help to other households",
+            "category": "care_house",
             "next": "other people",
             "title": "Shopping and services as help to other households"
         },
@@ -3306,6 +3415,8 @@
             "ID": 3612,
             "caption": "Shopping",
             "help": "Shopping mainly for clothing",
+            "category": "care_house",
+            "category": "care_house",
             "next": "other people",
             "title": "Shopping mainly for clothing"
         },
@@ -3321,6 +3432,7 @@
             "ID": 3613,
             "caption": "Shopping",
             "help": "Shopping mainly related to accommodation",
+            "category": "care_house",
             "next": "other people",
             "title": "Shopping mainly related to accommodation"
         },
@@ -3328,6 +3440,7 @@
             "ID": 3614,
             "caption": "Shopping",
             "help": "Shopping or browsing at car boot sales or antique fairs",
+            "category": "recreation",
             "next": "other people",
             "title": "Shopping or browsing at car boot sales or antique fairs"
         },
@@ -3344,12 +3457,14 @@
             "ID": 7121,
             "caption": "Hobbies/leisure",
             "help": "Singing or other musical activities",
+            "category": "recreation",
             "next": "other people",
             "title": "Singing or other musical activities"
         },
         "Skiing or skating": {
             "ID": 6132,
             "caption": "Sports",
+            "category": "recreation",
             "help": "Skiing or skating",
             "next": "other people",
             "title": "Skiing or skating"
@@ -3366,6 +3481,7 @@
             "ID": 7251,
             "caption": "Leisure involving computer",
             "help": "Skype or other video call",
+            "category": "recreation",
             "next": "other people",
             "title": "Skype or other video call"
         },
@@ -3408,6 +3524,7 @@
             "ID": 7310,
             "caption": "Leisure involving computer",
             "help": "Solo games and play",
+            "category": "recreation",
             "next": "other people",
             "title": "Solo games and play"
         },
@@ -3424,6 +3541,7 @@
             "ID": 5250,
             "caption": "Entertainment/ Leisure",
             "help": "Sports events",
+            "category": "recreation",
             "next": "other people",
             "title": "Sports events"
         },
@@ -3440,6 +3558,7 @@
             "ID": 6171,
             "caption": "Sports ",
             "help": "Swimming",
+            "category": "recreation",
             "next": "other people",
             "title": "Swimming"
         },
@@ -3447,6 +3566,7 @@
             "ID": 6111,
             "caption": "Sports",
             "help": "Taking a walk or hike that lasts at least 2 miles or 1 hour",
+            "category": "recreation",
             "next": "other people",
             "title": "Taking a walk or hike that lasts at least 2 miles or 1 hour"
         },
@@ -3461,6 +3581,7 @@
             "ID": 4272,
             "caption": "Asistance/Help",
             "help": "Teaching the child as help",
+            "category": "care_other",
             "next": "other people",
             "title": "Teaching the child as help"
         },
@@ -3476,6 +3597,7 @@
             "ID": 3420,
             "caption": "Unspecified gardening and pet care",
             "help": "Tending domestic animals",
+            "category": "care_other",
             "next": "other people",
             "title": "Tending domestic animals"
         },
@@ -4158,6 +4280,7 @@
             "caption": "Skip",
             "help": "None of the above",
             "icon": "act2_skip",
+            "category": "work",
             "next": "other people",
             "title": "Work or Housework"
         },
@@ -4165,6 +4288,7 @@
             "ID": 7100,
             "caption": "Hobbies/leisure",
             "help": "Unspecified arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified arts"
         },
@@ -4172,6 +4296,7 @@
             "ID": 6140,
             "caption": "Sports",
             "help": "Unspecified ball games",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified ball games"
         },
@@ -4179,6 +4304,7 @@
             "ID": 4270,
             "caption": "Asistance/Help",
             "help": "Unspecified childcare as help to other households",
+            "category": "care_other",
             "next": "other people",
             "title": "Unspecified childcare as help to other households"
         },
@@ -4186,11 +4312,13 @@
             "ID": 7240,
             "caption": "Leisure involving computer",
             "help": "Unspecified communication by computer",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified communication by computer"
         },
         "Unspecified construction and repairs": {
             "ID": 3500,
+            "category": "care_house",
             "caption": "Construction and repairs",
             "help": "Unspecified construction and repairs",
             "next": "other people",
@@ -4208,6 +4336,7 @@
             "ID": 5200,
             "caption": "Entertainment/ Leisure",
             "help": "Unspecified entertainment and culture",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified entertainment and culture"
         },
@@ -4215,6 +4344,7 @@
             "ID": 7300,
             "caption": "Leisure involving computer",
             "help": "Unspecified games",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified games"
         },
@@ -4222,6 +4352,7 @@
             "ID": 7320,
             "caption": "Leisure involving computer",
             "help": "Unspecified games and play with others",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified games and play with others"
         },
@@ -4229,6 +4360,7 @@
             "ID": 4280,
             "caption": "Asistance/Help",
             "help": "Unspecified help to an adult member of another household",
+            "category": "care_other",
             "next": "other people",
             "title": "Unspecified help to an adult member of another household"
         },
@@ -4236,6 +4368,7 @@
             "ID": 7150,
             "caption": "Hobbies/leisure",
             "help": "Unspecified hobbies",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified hobbies"
         },
@@ -4243,6 +4376,7 @@
             "ID": 4200,
             "caption": "Asistance/Help",
             "help": "Unspecified informal help to other households",
+            "category": "care_other",
             "next": "other people",
             "title": "Unspecified informal help to other households"
         },
@@ -4250,6 +4384,7 @@
             "ID": 5240,
             "caption": "Entertainment/ Leisure",
             "help": "Unspecified library",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified library"
         },
@@ -4289,6 +4424,7 @@
             "ID": 8000,
             "caption": "Social media",
             "help": "Unspecified mass media",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified mass media"
         },
@@ -4296,6 +4432,7 @@
             "ID": 4100,
             "caption": "VOLUNTARY WORK AND MEETINGS",
             "help": "Unspecified organisational work",
+            "category": "work",
             "next": "other people",
             "title": "Unspecified organisational work"
         },
@@ -4303,6 +4440,7 @@
             "ID": 7250,
             "caption": "Leisure involving computer",
             "help": "Unspecified other computing",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified other computing"
         },
@@ -4310,12 +4448,14 @@
             "ID": 4300,
             "caption": "Taking care of family or others",
             "help": "Unspecified participatory activities",
+            "category": "care_other",
             "next": "other people",
             "title": "Unspecified participatory activities"
         },
         "Unspecified performing arts": {
             "ID": 7120,
             "caption": "Hobbies/leisure",
+            "category": "recreation",
             "help": "Unspecified performing arts",
             "next": "other people",
             "title": "Unspecified performing arts"
@@ -4323,6 +4463,7 @@
         "Unspecified productive exercise": {
             "ID": 6200,
             "caption": "Sports ",
+            "category": "recreation",
             "help": "Unspecified productive exercise",
             "next": "other people",
             "title": "Unspecified productive exercise"
@@ -4371,6 +4512,7 @@
             "ID": 6310,
             "caption": "Sports ",
             "help": "Unspecified sports related activities",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified sports related activities"
         },
@@ -4378,12 +4520,14 @@
             "ID": 2000,
             "caption": "Work",
             "help": "Unspecified study",
+            "category": "work",
             "next": "other people",
             "title": "Unspecified study"
         },
         "Unspecified theatre or concerts": {
             "ID": 5220,
             "caption": "Entertainment/ Leisure",
+            "category": "recreation",
             "help": "Unspecified theatre or concerts",
             "next": "other people",
             "title": "Unspecified theatre or concerts"
@@ -4400,12 +4544,14 @@
             "ID": 7110,
             "caption": "Hobbies/leisure",
             "help": "Unspecified visual arts",
+            "category": "recreation",
             "next": "other people",
             "title": "Unspecified visual arts"
         },
         "Unspecified water sports": {
             "ID": 6170,
             "caption": "Sports ",
+            "category": "recreation",
             "help": "Unspecified water sports",
             "next": "other people",
             "title": "Unspecified water sports"
@@ -4414,6 +4560,7 @@
             "ID": 5244,
             "caption": "Entertainment/ Leisure",
             "help": "Using computers in the library other than internet use",
+            "category": "recreation",
             "next": "other people",
             "title": "Using computers in the library other than internet use"
         },
@@ -4421,6 +4568,7 @@
             "ID": 5243,
             "caption": "Entertainment/ Leisure",
             "help": "Using internet in the library",
+            "category": "recreation",
             "next": "other people",
             "title": "Using internet in the library"
         },
@@ -4428,6 +4576,7 @@
             "ID": 3540,
             "caption": "Construction and repairs",
             "help": "Vehicle maintenance",
+            "category": "care_house",
             "next": "other people",
             "title": "Vehicle maintenance"
         },
@@ -4444,6 +4593,7 @@
             "ID": 5293,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting a botanical site",
+            "category": "recreation",
             "next": "other people",
             "title": "Visiting a botanical site"
         },
@@ -4451,6 +4601,7 @@
             "ID": 5291,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting a historical site",
+            "category": "recreation",
             "next": "other people",
             "title": "Visiting a historical site"
         },
@@ -4458,6 +4609,7 @@
             "ID": 5294,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting a leisure park",
+            "category": "recreation",
             "next": "other people",
             "title": "Visiting a leisure park"
         },
@@ -4465,6 +4617,7 @@
             "ID": 5292,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting a wildlife site",
+            "category": "recreation",
             "next": "other people",
             "title": "Visiting a wildlife site"
         },
@@ -4472,6 +4625,7 @@
             "ID": 5295,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting an urban park, playground or designated play area",
+            "category": "recreation",
             "next": "other people",
             "title": "Visiting an urban park, playground or designated play area"
         },
@@ -4496,6 +4650,7 @@
             "ID": 4120,
             "caption": "Voluntary work",
             "help": "Volunteer work through an organisation",
+            "category": "care_other",
             "next": "other people",
             "title": "Volunteer work through an organisation"
         },
@@ -4557,6 +4712,7 @@
             "ID": 8211,
             "caption": "Leisure",
             "help": "Watching a film on TV",
+            "category": "recreation",
             "next": "other people",
             "title": "Watching a film on TV"
         },
@@ -4564,6 +4720,7 @@
             "ID": 8212,
             "caption": "Leisure",
             "help": "Watching sport on TV",
+            "category": "recreation",
             "next": "other people",
             "title": "Watching sport on TV"
         },
@@ -4579,6 +4736,7 @@
             "ID": 3615,
             "caption": "Shopping",
             "help": "Window shopping or other shopping as leisure",
+            "category": "recreation",
             "next": "other people",
             "title": "Window shopping or other shopping as leisure"
         },
@@ -4603,6 +4761,7 @@
             "ID": 4110,
             "caption": "VOLUNTARY WORK AND MEETINGS",
             "help": "Work for an organisation",
+            "category": "work",
             "next": "other people",
             "title": "Work for an organisation"
         },
@@ -4894,6 +5053,7 @@
         "xOther specified help to an adult member of another household": {
             "ID": 4289,
             "caption": "Asistance/Help",
+            "category": "care_other",
             "help": "Other specified help to an adult member of another household",
             "next": "other people",
             "title": "Other specified help to an adult member of another household"
@@ -4902,6 +5062,7 @@
             "ID": 1399,
             "caption": "Work",
             "help": "Other specified activities related to employment",
+            "category": "work",
             "next": "other people",
             "title": "Other specified activities related to employment"
         },
@@ -4909,6 +5070,7 @@
             "ID": 3727,
             "caption": "Activities with internet use",
             "help": "Banking and bill paying via the internet",
+            "category": "care_house",
             "next": "other people",
             "title": "Banking and bill paying via the internet"
         },
@@ -4965,6 +5127,7 @@
             "ID": 3729,
             "caption": "Activities with internet use",
             "help": "Other specified household management using the internet",
+            "category": "care_house",
             "next": "other people",
             "title": "Other specified household management using the internet"
         },
@@ -4993,6 +5156,7 @@
         },
         "xxxShopping for&ordring entertainment via the internet": {
             "ID": 3726,
+            "category": "recreation",
             "caption": "Activities with internet use",
             "help": "Shopping for&ordring entertainment via the internet",
             "next": "other people",
@@ -5010,11 +5174,17 @@
             "ID": 3724,
             "caption": "Activities with internet use",
             "help": "Shopping for&ordring gds&srv related to acc via internet",
+            "category": "recreation",
             "next": "other people",
             "title": "Shopping for&ordring gds&srv related to acc via internet"
         },
+        "xxxWhoKnowsShouldProbablyCheck": {
+             "ID" : 3713,
+             "category" : "other_category"
+        },
         "xxxShopping for&ordring mass media via the internet": {
             "ID": 3725,
+            "category": "recreation",
             "caption": "Activities with internet use",
             "help": "Shopping for&ordring mass media via the internet",
             "next": "other people",
