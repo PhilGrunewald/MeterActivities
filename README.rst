@@ -1,5 +1,5 @@
-MeterActivities (JSON)
-======================
+MeterActivities (activities)
+============================
 
 A json structure for activities and their navigation
 
@@ -36,7 +36,7 @@ LegendIndividual
 ----------------
 
 - same as Legend Household, but for table Individual on Meter database
-- Note all these values have been uploaded to Table `Legend` in the Meter schema using /utils/json2sql.py
+- Note all these values have been uploaded to Table `Legend` in the Meter schema using json2sql_
 
 
-.. _json2sql: ../../utils/json2sql.py
+.. _json2sql: ../../scripts/json2sql.py
