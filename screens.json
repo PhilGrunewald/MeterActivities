@@ -588,7 +588,7 @@
                 "Other people 6"
             ],
             "help": "Number of people around you.",
-            "title": "How many people are with you?"
+            "title": "How many people are you doing this with?"
         },
         "other specify": {
             "activities": [
