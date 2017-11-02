@@ -851,7 +851,7 @@
             "next": "other people",
             "title": "Biking"
         },
-        "Biking, skiing and skating": {
+        "Biking skiing and skating": {
             "ID": 6130,
             "caption": "Sports",
             "help": "Biking, skiing and skating",
@@ -859,7 +859,7 @@
             "next": "other people",
             "title": "Biking, skiing and skating"
         },
-        "Billiards, pool, snooker or petanque": {
+        "Billiards pool snooker or petanque": {
             "ID": 7321,
             "caption": "Leisure involving computer",
             "help": "Billiards, pool, snooker or petanque",
@@ -908,7 +908,7 @@
             "next": "",
             "title": ""
         },
-        "Borrowing books, records, audiotapes, videotapes, CDs, VDs etc. from a library": {
+        "Borrowing from a library": {
             "ID": 5241,
             "caption": "Entertainment/ Leisure",
             "help": "Borrowing books, records, audiotapes, videotapes, CDs, VDs etc. from a library",
@@ -2427,7 +2427,7 @@
             "next": "other people",
             "title": "Literary arts"
         },
-        "Live music other than classical concerts, opera and musicals": {
+        "Live music other than classical concerts opera and musicals": {
             "ID": 5224,
             "category": "recreation",
             "caption": "Entertainment/ Leisure",
@@ -2559,7 +2559,7 @@
             "next": "",
             "title": "only in TUS"
         },
-        "Making videos, taking photos or related activities": {
+        "Making videos taking photos or related activities": {
             "ID": 7112,
             "caption": "Hobbies/leisure",
             "help": "Making videos, taking photos or related activities",
@@ -2708,7 +2708,7 @@
             "title": "enjoyment 3",
             "value": 3
         },
-        "No main activity, no idea what it might be": {
+        "No main activity no idea what it might be": {
             "ID": 9960,
             "caption": "Other activities",
             "help": "No main activity, no idea what it might be",
@@ -2716,7 +2716,7 @@
             "next": "other people",
             "title": "No main activity, no idea what it might be"
         },
-        "No main activity, some idea what it might be": {
+        "No main activity some idea what it might be": {
             "ID": 9970,
             "caption": "Other activities",
             "help": "No main activity, some idea what it might be",
@@ -2791,7 +2791,7 @@
             "title": "Occupation",
             "value": 4
         },
-        "Opera, operetta or light opera": {
+        "Opera operetta or light opera": {
             "ID": 5222,
             "caption": "Entertainment/ Leisure",
             "help": "Opera, operetta or light opera",
@@ -2998,7 +2998,7 @@
             "next": "other people",
             "title": "Other specified library activities"
         },
-        "Other specified making, repairing and maintaining equipment": {
+        "Other specified making repairing and maintaining equipment": {
             "ID": 3539,
             "caption": "Construction and repairs",
             "help": "Other specified making, repairing and maintaining equipment",
@@ -3230,7 +3230,7 @@
             "next": "other people",
             "title": "Outdoor activity"
         },
-        "Painting, drawing or other graphic arts": {
+        "Painting drawing or other graphic arts": {
             "ID": 7111,
             "caption": "Hobbies/leisure",
             "help": "Painting, drawing or other graphic arts",
@@ -3279,7 +3279,7 @@
             "next": "other people",
             "title": "Physical care and supervision of own child as help to other household"
         },
-        "Picking berries, mushroom and herbs": {
+        "Picking berries mushroom and herbs": {
             "ID": 6220,
             "caption": "Sports ",
             "help": "Picking berries, mushroom and herbs",
@@ -3287,7 +3287,7 @@
             "next": "other people",
             "title": "Picking berries, mushroom and herbs"
         },
-        "Plays, musicals or pantomimes": {
+        "Plays musicals or pantomimes": {
             "ID": 5221,
             "caption": "Entertainment/ Leisure",
             "help": "Plays, musicals or pantomimes",
@@ -3345,7 +3345,7 @@
             "next": "other people",
             "title": "Reading periodicals"
         },
-        "Reading, playing & talking to own non-coresident child": {
+        "Reading playing talking to own non-coresident child": {
             "ID": 4277,
             "caption": "Asistance/Help",
             "help": "Reading, playing & talking to own non-coresident child",
@@ -3353,7 +3353,7 @@
             "next": "other people",
             "title": "Reading, playing & talking to own non-coresident child"
         },
-        "Reading, playing & talking to the child as help": {
+        "Reading playing talking to the child as help": {
             "ID": 4273,
             "caption": "Asistance/Help",
             "help": "Reading, playing & talking to the child as help",
@@ -4412,7 +4412,7 @@
             "next": "other people",
             "title": "Laundry"
         },
-        "Unspecified making, repairing and maintaining equipment": {
+        "Unspecified making repairing and maintaining equipment": {
             "ID": 3530,
             "caption": "Construction and repairs",
             "category": "care_house",
@@ -4621,7 +4621,7 @@
             "next": "other people",
             "title": "Visiting a wildlife site"
         },
-        "Visiting an urban park, playground or designated play area": {
+        "Visiting an urban park playground or designated play area": {
             "ID": 5295,
             "caption": "Entertainment/ Leisure",
             "help": "Visiting an urban park, playground or designated play area",
@@ -4740,7 +4740,7 @@
             "next": "other people",
             "title": "Window shopping or other shopping as leisure"
         },
-        "Woodcraft, metal craft, sculpture and pottery": {
+        "Woodcraft metal craft sculpture and pottery": {
             "ID": 3531,
             "caption": "Construction and repairs",
             "category": "care_house",
