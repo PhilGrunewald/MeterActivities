@@ -21,8 +21,8 @@
                 "Get home",
                 "Main other"
             ],
-            "help": "at this moment",
-            "title": "Your activity"
+            "help": "in diesem Moment",
+            "title": "Ihre Aktivität"
         },
         "activity main": {
             "activities": [
@@ -33,8 +33,8 @@
                 "Appliances",
                 "Main other"
             ],
-            "help": "at this moment",
-            "title": "Your activity"
+            "help": "in diesem Moment",
+            "title": "Ihre Aktivität"
         },
         "activity public": {
             "activities": [
@@ -45,8 +45,8 @@
                 "Shopping and services",
                 "Main other"
             ],
-            "help": "in a public place",
-            "title": "Your activity"
+            "help": "Ausserhalb",
+            "title": "Ihre Aktivität"
         },
         "activity root": {
             "activities": [
@@ -57,8 +57,8 @@
                 "Loc travelling",
                 "Loc other location"
             ],
-            "help": "Your location.",
-            "title": "Where are you at ${act_time}?"
+            "help": "Ihr Ort",
+            "title": "Wo waren Sie um ${act_time}?"
         },
         "activity root away": {
             "activities": [
@@ -69,8 +69,8 @@
                 "Loc travelling",
                 "Loc other location"
             ],
-            "help": "Your location.",
-            "title": "Where are you at ${act_time}?"
+            "help": "Ihr Ort",
+            "title": "Wo waren Sie um ${act_time}?"
         },
         "activity time 2": {
             "activities": [
@@ -81,8 +81,8 @@
                 "Time 11",
                 "Time 12"
             ],
-            "help": "How long ago or the time",
-            "title": "When was this?"
+            "help": "Wie lange her oder die Zeit",
+            "title": "Wann war das?"
         },
         "activity time absolute": {
             "activities": [
@@ -130,7 +130,7 @@
                 "Other specify"
             ],
             "help": "",
-            "title": "Appliance use"
+            "title": "Geräte"
         },
         "appliances bathroom": {
             "activities": [
@@ -142,7 +142,7 @@
                 "Appliances hygiene none"
             ],
             "help": "",
-            "title": "Bathroom"
+            "title": "Badezimmer"
         },
         "appliances clothes": {
             "activities": [
@@ -154,7 +154,7 @@
                 "Other specify"
             ],
             "help": "",
-            "title": "Clothes"
+            "title": "Kleidung"
         },
         "appliances entertainment": {
             "activities": [
@@ -166,7 +166,7 @@
                 "Other specify"
             ],
             "help": "",
-            "title": "Entertainment"
+            "title": "Unterhaltung"
         },
         "appliances food preparation": {
             "activities": [
@@ -178,7 +178,7 @@
                 "Appliances Toaster"
             ],
             "help": "",
-            "title": "Kitchen"
+            "title": "Küche"
         },
         "appliances household": {
             "activities": [
