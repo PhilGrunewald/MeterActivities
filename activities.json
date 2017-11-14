@@ -4961,12 +4961,12 @@
         },
         "Working time in second job": {
             "ID": 1210,
-            "caption": "Other job",
+            "caption": "Other work",
             "category": "work",
             "help": "Working in second or other job",
             "icon": "act2_work",
             "next": "work job",
-            "title": "Other job"
+            "title": "Other work"
         },
         "XXX Repeat activity now": {
             "ID": 11000,
