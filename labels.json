@@ -1,0 +1,33 @@
+{
+    "hours": "24",
+    "title": "Wilkommen",
+    "actListLabel": "Bitte fangen Sie mit dem Fragebogen oben an.",
+    "now": "Jetzt",
+    "recently": "Früher",
+    "AtTheMoment": " jetzt",
+
+    "lblSurvey": "Fragebogen",
+    "lblBack": "Zurück",
+    "lblHome": "Home",
+    "lblNext": "Weiter...",
+    "lblDone": "Fertig",
+
+    "time": {
+        "comment": "German: vor 10min    English: 10min ago",
+        "before": {
+            "pre": "vor ",
+            "post": ""
+        },
+        "after": {
+            "pre": "in ",
+            "post": ""
+        }
+    },
+
+    "progress1": "Fragebogen fertig",
+    "progress2": "5 Aktivitäten",
+    "progress3": "10 Aktivitäten",
+    "progress4": "15 Aktivitäten",
+    "progress5": "25 Aktivitäten"
+
+}
