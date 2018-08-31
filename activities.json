@@ -451,6 +451,7 @@
         "Appliances": {
             "ID": 8500,
             "caption": "Appliances",
+            "category": "other_category",
             "help": "Electrical goods",
             "icon": "act2_appliance",
             "next": "appliances",
@@ -465,6 +466,15 @@
             "next": "appliances",
             "title": "Use an appliance",
             "value": 0
+        },
+        "Appliances other": {
+            "ID": 8509,
+            "caption": "Other ...",
+            "category": "other_category",
+            "help": "Say in your own words",
+            "icon": "Other_type",
+            "next": "other specify",
+            "title": "Custom"
         },
         "Appliances Bread maker": {
             "ID": 8537,
@@ -615,9 +625,9 @@
         },
         "Appliances Radio": {
             "ID": 8556,
-            "caption": "Music",
+            "caption": "Radio",
             "category": "recreation",
-            "help": "or radio / listening",
+            "help": "or music / listening",
             "icon": "app_radio",
             "next": "other people",
             "title": "Music"
@@ -666,6 +676,25 @@
             "icon": "app_toy",
             "next": "other people",
             "title": "Toys"
+        },
+
+        "Appliances Household other": {
+            "ID": 8519,
+            "caption": "Other ...",
+            "help": "Say in your own words",
+            "icon": "Other_type",
+            "category": "care_house",
+            "next": "other specify",
+            "title": "Custom"
+        },
+        "Appliances Entertainment other": {
+            "ID": 8559,
+            "caption": "Other ...",
+            "help": "Say in your own words",
+            "icon": "Other_type",
+            "category": "recreation",
+            "next": "other specify",
+            "title": "Custom"
         },
         "Appliances Tumble dryer": {
             "ID": 8542,
@@ -721,6 +750,15 @@
             "next": "appliances clothes",
             "title": "Handling clothes"
         },
+        "Appliances Clothes other": {
+            "ID": 8549,
+            "caption": "Other ...",
+            "help": "Say in your own words",
+            "icon": "Other_type",
+            "category": "care_house",
+            "next": "other specify",
+            "title": "Custom"
+        },
         "Appliances entertainment": {
             "ID": 8550,
             "caption": "Entertainment",
@@ -767,7 +805,7 @@
             "title": "Household appliance use"
         },
         "Appliances hygiene none": {
-            "ID": 8599,
+            "ID": 8579,
             "caption": "None of these",
             "category": "other_category",
             "help": "not listed here",
@@ -783,7 +821,16 @@
             "next": "appliances kitchen",
             "title": "Use kitchen appliance"
         },
-        "Appliances other": {
+        "Appliances Kitchen other": {
+            "ID": 8539,
+            "caption": "Other ...",
+            "help": "Say in your own words",
+            "icon": "Other_type",
+            "category": "food",
+            "next": "other specify",
+            "title": "Custom"
+        },
+        "Appliances Outdoors other": {
             "ID": 8599,
             "caption": "Other ...",
             "category": "other_category",

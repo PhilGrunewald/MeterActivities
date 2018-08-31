@@ -127,7 +127,7 @@
                 "Appliances entertainment",
                 "Appliances household",
                 "Appliances bathroom",
-                "Other specify"
+                "Appliances other"
             ],
             "help": "",
             "title": "Appliance use"
@@ -151,7 +151,7 @@
                 "Appliances Tumble dryer",
                 "Appliances Iron",
                 "Appliances Sewing machine",
-                "Other specify"
+                "Appliances Clothes other"
             ],
             "help": "",
             "title": "Clothes"
@@ -163,7 +163,7 @@
                 "Appliances Games console",
                 "Appliances Radio",
                 "Appliances Toys",
-                "Other specify"
+                "Appliances Entertainment other"
             ],
             "help": "",
             "title": "Entertainment"
@@ -187,7 +187,7 @@
                 "Appliances Tools",
                 "Appliances Garden tools",
                 "Appliances Toys",
-                "Other specify"
+                "Appliances Household other"
             ],
             "help": "",
             "title": "House and garden"
@@ -199,7 +199,7 @@
                 "Appliances Microwave",
                 "Appliances Kettle",
                 "Appliances Toaster",
-                "Other specify"
+                "Appliances Kitchen other"
             ],
             "help": "",
             "title": "Kitchen"
@@ -621,7 +621,7 @@
                 "Appliances Tools",
                 "Appliances Garden tools",
                 "Blank",
-                "Appliances other"
+                "Appliances Outdoors other"
             ],
             "help": "please specify",
             "title": "Outdoors appliances"
