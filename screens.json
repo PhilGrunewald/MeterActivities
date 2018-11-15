@@ -105,7 +105,7 @@
                 "-120min",
                 "+60min"
             ],
-            "help": "Press DONE when time is right",
+            "help": "OK wenn die Zeit stimmt",
             "title": "${rel_time}"
         },
         "adjust time": {
@@ -117,7 +117,7 @@
                 "-120min",
                 "+60min"
             ],
-            "help": "Press DONE when time is right",
+            "help": "OK wenn die Zeit stimmt",
             "title": "${rel_time}"
         },
         "appliances": {
@@ -225,7 +225,7 @@
                 "Exercise",
                 "Care activities other"
             ],
-            "help": "with others",
+            "help": "mit anderen",
             "title": "Joint activity"
         },
         "care child": {
