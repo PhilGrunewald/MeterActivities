@@ -58,7 +58,7 @@
                 "Loc other location"
             ],
             "help": "Ihr Ort",
-            "title": "Wo waren Sie um ${act_time}?"
+            "title": "Wo sind Sie um ${act_time}?"
         },
         "activity root away": {
             "activities": [
@@ -444,7 +444,7 @@
         },
         "home": {
             "help": "",
-            "title": "What I did..."
+            "title": "Was machen Sie..."
         },
         "hours 1": {
             "activities": [
