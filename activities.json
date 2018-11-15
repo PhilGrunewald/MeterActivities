@@ -786,7 +786,7 @@
         },
         "Appliances hair trimmer": {
             "ID": 8573,
-            "caption": "Elektrische Haarschneidemaschine/Haarschneider",
+            "caption": "Haarschneider",
             "category": "care_self",
             "help": "",
             "icon": "app_hair_trimmer",
@@ -922,7 +922,7 @@
         },
         "Bills no": {
             "ID": 90073,
-            "caption": "Ich mache nicht mit",
+            "caption": "Nein",
             "help": "Ich bin nicht f\u00fcr die Rechnung verantwortlich",
             "next": "survey income",
             "title": "Verantwortlich f\u00fcr die Rechnung",
@@ -930,7 +930,7 @@
         },
         "Bills other": {
             "ID": 90074,
-            "caption": "Anderes / \u00dcberspringen",
+            "caption": "\u00dcberspringen",
             "help": "Ich habe eine andere Anordnung / Ich m\u00f6chte nichts dazu sagen",
             "icon": "act2_skip",
             "next": "survey income",
@@ -963,7 +963,7 @@
         },
         "Care": {
             "ID": 3900,
-            "caption": "gemeinsame Unternehmung",
+            "caption": "Gemeinsame Unternehmung",
             "category": "other_category",
             "help": "soziale Kontakte kn\u00fcpfen / pflegen",
             "icon": "act2_others",
@@ -1032,9 +1032,9 @@
         },
         "Care child other": {
             "ID": 3810,
-            "caption": "Sonstige",
+            "caption": "Andere",
             "category": "care_other",
-            "help": "Bei dem Kind sein",
+            "help": "Mit anderen",
             "icon": "act2_skip",
             "next": "other people",
             "title": "Kinderbetreuung"
@@ -1289,7 +1289,7 @@
         },
         "Caring for pets": {
             "ID": 3430,
-            "caption": "Haustier",
+            "caption": "Haustiere",
             "category": "care_other",
             "help": "Sich um das Haustier k\u00fcmmern",
             "icon": "act2_pets",
@@ -1771,7 +1771,7 @@
         },
         "Food preparation": {
             "ID": 3110,
-            "caption": "Mahlzeit zubereiten / Essen kochen/machen",
+            "caption": "Mahlzeit zubereiten / kochen",
             "category": "food",
             "help": "\"Kochen, Schneiden, R\u00fchren, \u2026\"",
             "icon": "act2_cook",
@@ -2551,12 +2551,12 @@
         },
         "Loc travelling": {
             "ID": 30030,
-            "caption": "Reisen",
+            "caption": "Unterwegs",
             "category": "travel",
             "help": "\"Anreise mit dem Auto, zu Fu\u00df, Bus, Zug, Fahrrad, Joggen ...\"",
             "icon": "act2_travel",
             "next": "travel",
-            "title": "Auf Reisen",
+            "title": "Unterwegs",
             "value": 2
         },
         "Loc work": {
@@ -3742,7 +3742,7 @@
         },
         "Time cooking 2": {
             "ID": 90802,
-            "caption": "10 min oder weniger",
+            "caption": "unter 10 Minuten",
             "help": "Zeit mit Kochen verbracht",
             "icon": "act2_cook",
             "next": "time exercise",
@@ -3751,7 +3751,7 @@
         },
         "Time cooking 3": {
             "ID": 90803,
-            "caption": "30 min oder weniger",
+            "caption": "unter 30 Minuten",
             "help": "Zeit mit Kochen verbracht",
             "icon": "act2_cook",
             "next": "time exercise",
@@ -3760,7 +3760,7 @@
         },
         "Time cooking 4": {
             "ID": 90804,
-            "caption": "1 Stunde oder weniger",
+            "caption": "unter 1 Stunde",
             "help": "Zeit mit Kochen verbracht",
             "icon": "act2_cook",
             "next": "time exercise",
@@ -3769,7 +3769,7 @@
         },
         "Time cooking 5": {
             "ID": 90805,
-            "caption": "3 Stunden oder weniger",
+            "caption": "unter 2 Stunden",
             "help": "Zeit mit Kochen verbracht",
             "icon": "act2_cook",
             "next": "time exercise",
@@ -3778,7 +3778,7 @@
         },
         "Time cooking 6": {
             "ID": 90806,
-            "caption": "\u00fcber 3 Stunden",
+            "caption": "\u00fcber 2 Stunden",
             "help": "Zeit mit Kochen verbracht",
             "icon": "act2_cook",
             "next": "time exercise",
@@ -3848,7 +3848,7 @@
         },
         "Time mobile 2": {
             "ID": 90602,
-            "caption": "10 min oder weniger",
+            "caption": "unter 30 min",
             "help": "Zeit mit dem Handy verbracht",
             "icon": "app_mobile",
             "next": "time screens",
@@ -3857,7 +3857,7 @@
         },
         "Time mobile 3": {
             "ID": 90603,
-            "caption": "30 min oder weniger",
+            "caption": "unter 1 Stunde",
             "help": "Zeit mit dem Handy verbracht",
             "icon": "app_mobile",
             "next": "time screens",
@@ -3866,7 +3866,7 @@
         },
         "Time mobile 4": {
             "ID": 90604,
-            "caption": "1 Stunde oder weniger",
+            "caption": "unter 2 Stunden",
             "help": "Zeit mit dem Handy verbracht",
             "icon": "app_mobile",
             "next": "time screens",
@@ -3875,7 +3875,7 @@
         },
         "Time mobile 5": {
             "ID": 90605,
-            "caption": "2 Stunden oder weniger",
+            "caption": "unter 4 Stunden",
             "help": "Zeit mit dem Handy verbracht",
             "icon": "app_mobile",
             "next": "time screens",
@@ -3884,7 +3884,7 @@
         },
         "Time mobile 6": {
             "ID": 90606,
-            "caption": "\u00fcber 2 Stunden",
+            "caption": "\u00fcber 4 Stunden",
             "help": "Zeit mit dem Handy verbracht",
             "icon": "app_mobile",
             "next": "time screens",
@@ -3901,7 +3901,7 @@
         },
         "Time screens 2": {
             "ID": 90702,
-            "caption": "30 min oder weniger",
+            "caption": "unter 30 Minuten",
             "help": "Zeit vor Bildschirmen verbracht",
             "icon": "app_TV",
             "next": "time cooking",
@@ -3910,7 +3910,7 @@
         },
         "Time screens 3": {
             "ID": 90703,
-            "caption": "1 Stunde oder weniger",
+            "caption": "unter 1 Stunde",
             "help": "Zeit vor Bildschirmen verbracht",
             "icon": "app_TV",
             "next": "time cooking",
@@ -3919,7 +3919,7 @@
         },
         "Time screens 4": {
             "ID": 90704,
-            "caption": "2 Stunden oder weniger",
+            "caption": "unter 2 Stunden",
             "help": "Zeit vor Bildschirmen verbracht",
             "icon": "app_TV",
             "next": "time cooking",
@@ -3928,7 +3928,7 @@
         },
         "Time screens 5": {
             "ID": 90705,
-            "caption": "3 Stunden oder weniger",
+            "caption": "unter 4 Stunden",
             "help": "Zeit vor Bildschirmen verbracht",
             "icon": "app_TV",
             "next": "time cooking",
@@ -3937,7 +3937,7 @@
         },
         "Time screens 6": {
             "ID": 90706,
-            "caption": "\u00fcber 3 Stunden",
+            "caption": "\u00fcber 4 Stunden",
             "help": "Zeit vor Bildschirmen verbracht",
             "icon": "app_TV",
             "next": "time cooking",
@@ -4021,7 +4021,7 @@
             "help": "Nichts der Genannten",
             "icon": "act2_skip",
             "next": "travel purpose public",
-            "title": "Reisen",
+            "title": "Unterwegs",
             "value": 31
         },
         "Travel public": {
@@ -4058,7 +4058,7 @@
             "help": "Andere",
             "icon": "act2_other",
             "next": "other people",
-            "title": "Reisen mit Kindern"
+            "title": "Unterwegs mit Kindern"
         },
         "Travel purpose children school": {
             "ID": 9231,
@@ -4076,7 +4076,7 @@
             "help": "zum Spielen",
             "icon": "act2_friends",
             "next": "other people",
-            "title": "Reisen mit Kind zu / von Freunden"
+            "title": "Unterwegs mit Kind zu / von Freunden"
         },
         "Travel purpose children sport": {
             "ID": 9232,
@@ -4085,7 +4085,7 @@
             "help": "Hin- und R\u00fcckfahrt zu einem Sportevent/zum Training",
             "icon": "act2_exercise",
             "next": "other people",
-            "title": "Reisen mit Kind zum Sport"
+            "title": "Unterwegs mit Kind zum Sport"
         },
         "Travel purpose commute": {
             "ID": 9100,
@@ -4127,7 +4127,7 @@
             "category": "care_house",
             "help": "\"Zum Baumarkt, Klempner ...\"",
             "next": "other people",
-            "title": "Reisen zu Haushaltszwecken"
+            "title": "Unterwegs zu Haushaltszwecken"
         },
         "Travel purpose leisure": {
             "ID": 9600,
@@ -4145,7 +4145,7 @@
             "help": "Hier nicht genannt",
             "icon": "act2_skip",
             "next": "other people",
-            "title": "Reisen"
+            "title": "Unterwegs"
         },
         "Travel purpose shop service": {
             "ID": 9310,
@@ -4180,7 +4180,7 @@
             "help": "\"Dienstreise, Hin-, R\u00fcckweg Arbeit\"",
             "icon": "act2_work",
             "next": "other people",
-            "title": "Fahrt zur Arbeit"
+            "title": "Weg zur Arbeit"
         },
         "Travel related to changing locality": {
             "ID": 9800,
@@ -4865,7 +4865,7 @@
         },
         "Work job other": {
             "ID": 1140,
-            "caption": "Weiter\u2026",
+            "caption": "ohne Apparate",
             "category": "work",
             "help": "Andere Arbeit",
             "icon": "act2_skip",

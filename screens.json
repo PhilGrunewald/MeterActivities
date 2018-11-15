@@ -70,7 +70,7 @@
                 "Loc other location"
             ],
             "help": "Ihr Ort",
-            "title": "Wo waren Sie um ${act_time}?"
+            "title": "Wo sind Sie um ${act_time}?"
         },
         "activity time 2": {
             "activities": [
@@ -214,7 +214,7 @@
                 "Care other"
             ],
             "help": "",
-            "title": "Activity with..."
+            "title": "Unternehmunng mit..."
         },
         "care activities": {
             "activities": [
@@ -588,7 +588,7 @@
                 "Other people 6"
             ],
             "help": "Number of people around you.",
-            "title": "How many people are you doing this with?"
+            "title": "Sind andere beteiligt?"
         },
         "other specify": {
             "activities": [
@@ -744,7 +744,7 @@
                 "Blank"
             ],
             "help": "tap the one that fits best",
-            "title": "Do you pay the electricity bills?"
+            "title": "Bezahlen Sie die Stromrechning selbts?"
         },
         "survey complete": {
             "activities": [
@@ -852,7 +852,7 @@
                 "Blank"
             ],
             "help": "tap the one that fits best",
-            "title": "Are these hours always the same?"
+            "title": "Sind diese Zeiten immer gleich?"
         },
         "time cooking": {
             "activities": [
@@ -864,7 +864,7 @@
                 "Time cooking 6"
             ],
             "help": "",
-            "title": "On a typical weekday, how much time do you spend </br> <b>Cooking</b>"
+            "title": "Wie lange <b>kochen</b> Sie an einem typischen Wochentag"
         },
         "time exercise": {
             "activities": [
@@ -888,7 +888,7 @@
                 "Time mobile 6"
             ],
             "help": "",
-            "title": "On a typical weekday, how much time do you spend on</br> <b>Mobile Devices</b> (in total)"
+            "title": "Wie viel benutzen Sie ihr <b>Handy</b> an einem typischen Wochentag"
         },
         "time screens": {
             "activities": [
@@ -900,7 +900,7 @@
                 "Time screens 6"
             ],
             "help": "TV, tablet...",
-            "title": "On a typical weekday, how much time do you spend on</br> <b>Screens</b> (any device)"
+            "title": "Wie lange verbringen Sie an <b>Bildschirmen</b> an einem typischen Wochentag"
         },
         "to do": [
             "getting ready > ironing",
@@ -1032,15 +1032,15 @@
         },
         "work job": {
             "activities": [
-                "Work job other",
+                "Work job break",
                 "Appliances Computer",
                 "Appliances Tools",
                 "Appliances Machinery",
                 "Work job manual",
-                "Work job break"
+                "Work job other"
             ],
             "help": "Press SKIP if not",
-            "title": "Using any of these?"
+            "title": "Arbeit mit..."
         },
         "work job break": {
             "activities": [
